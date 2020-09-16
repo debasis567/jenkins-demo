@@ -15,7 +15,7 @@ if [ $# -eq 1 ]
 then
     Num=$1
 else
-    echo -n "Enter a Number :"
+    echo -n "Abhinav is here please Enter a Number :"
     read Num
 fi
 
